@@ -3,7 +3,7 @@
 Static multi-page website for Paradise Building Systems Ltd (PBS Civil Works), Port Moresby & Lae, Papua New Guinea.
 
 ## Pages
-- `index.html` — Home
+- `index.html` — Home (civil works redesign: single page with capabilities, featured Ok Tedi Energy fuel depot project, method, crew and quote form; styles are inline)
 - `services.html` — Services
 - `projects.html` — Projects gallery
 - `about.html` — About, values & management team
@@ -12,7 +12,7 @@ Static multi-page website for Paradise Building Systems Ltd (PBS Civil Works), P
 ## Structure
 - `assets/site.css` — all styles (light & dark mode)
 - `assets/site.js` — menu, project filters, lightbox, copy buttons, quote form
-- `img/` — logo and project photos
+- `img/` — logo and project photos (Ok Tedi Energy depot photos: `depot-*`, `security-fence`, `tank-hardstand`, `paved-access`, `fence-line-pavers`, `site-handover`, `crew-*`)
 
 ## Publish with GitHub Pages
 1. Upload all files and folders to the root of a GitHub repository (keep the folder structure).
